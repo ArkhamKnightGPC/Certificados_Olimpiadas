@@ -36,3 +36,5 @@ e 6 menções honrosas:
 - Torneio Virtual de Química 2017
 - Olimpíada Nacional de Ciências 2018
 - Olimpíada Brasileira de Matemática 2020 Nível Universitário
+
+![Cerimônia de Premiação OPM 2017](OPM_2017.jpg)
