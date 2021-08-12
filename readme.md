@@ -13,7 +13,7 @@ São ao todo 5 medalhas de ouro:
 
 8 medalhas de prata:
 
-- Olimpíada Brasileira de Informática 2016 Modalidade Programação 1 (2º lugar nacional)
+- Olimpíada Brasileira de Informática 2016 Modalidade Programação Nível 1
 - Olimpíada Paulista de Matemática 2017
 - Olimpíada Paulista de Física 2017
 - Olimpíada Paulista de Química 2017
