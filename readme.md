@@ -2,7 +2,7 @@
 
 This repository contains certificates for my personal awards in scientifc olympiads (and two language certifications).
 
-![Medalhas do Ensino Médio](Medalhas_EnsinoMedio.jpg)
+![Medalhas do Ensino Médio](High_School_Medals.jpg)
 
 In total there are 5 Gold medals:
 
@@ -37,4 +37,4 @@ and 6 Honorable Mentions:
 - **Brazilian online chemistry competition 2017** Torneio Virtual de Química 2017
 - **Brazilian national science olympiad 2018** Olimpíada Nacional de Ciências 2018
 
-![Cerimônia de Premiação OPM 2017](OPM_2017.jpg)
+![Cerimônia de Premiação OPM 2017](State_of_Sao_Paulo_Math_Olympiad_2017.jpg)
